@@ -1,0 +1,6475 @@
+Added file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:3: ����: �����java.awt������
+    [javac] import java.awt.Component;
+    [javac]                ^
+    [javac] 1 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+cannot stat 'D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar': No such file or directory
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.jinritoutiao.Test" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/Test.jar"],nativeLibraryDirectories=[/system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:3: ����: �����java.awt������
+    [javac] import java.awt.Component;
+    [javac]                ^
+    [javac] 1 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+cannot stat 'D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar': No such file or directory
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.jinritoutiao.Test" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/Test.jar"],nativeLibraryDirectories=[/system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:3: ����: �����java.awt������
+    [javac] import java.awt.Component;
+    [javac]                ^
+    [javac] 1 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+cannot stat 'D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar': No such file or directory
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.jinritoutiao.Test" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/Test.jar"],nativeLibraryDirectories=[/system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:3: ����: �����java.awt������
+    [javac] import java.awt.Component;
+    [javac]                ^
+    [javac] 1 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+cannot stat 'D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar': No such file or directory
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.jinritoutiao.Test" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/Test.jar"],nativeLibraryDirectories=[/system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:3: ����: �����java.awt������
+    [javac] import java.awt.Component;
+    [javac]                ^
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:46: ����: �Ҳ�������
+    [javac] 		cleanNote();//�������note
+    [javac] 		^
+    [javac]   ����:   ���� cleanNote()
+    [javac]   λ��: �� Test
+    [javac] 2 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+cannot stat 'D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar': No such file or directory
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.jinritoutiao.Test" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/Test.jar"],nativeLibraryDirectories=[/system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:3: ����: �����java.awt������
+    [javac] import java.awt.Component;
+    [javac]                ^
+    [javac] 1 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+cannot stat 'D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar': No such file or directory
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.jinritoutiao.Test" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/Test.jar"],nativeLibraryDirectories=[/system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+60 KB/s (5071 bytes in 0.082s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.88
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+58 KB/s (5071 bytes in 0.085s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.108
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 9 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:5: ����: �����javax.swing.plaf.basic.BasicInternalFrameTitlePane������
+    [javac] import javax.swing.plaf.basic.BasicInternalFrameTitlePane.TitlePaneLayout;
+    [javac]                                                          ^
+    [javac] ע: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\beetstra\jutf7\CharsetProvider.javaʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 1 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+40 KB/s (5071 bytes in 0.121s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.01
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 9 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\jinritoutiao\Test.java:5: ����: �����javax.swing.plaf.basic.BasicInternalFrameTitlePane������
+    [javac] import javax.swing.plaf.basic.BasicInternalFrameTitlePane.TitlePaneLayout;
+    [javac]                                                          ^
+    [javac] ע: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\beetstra\jutf7\CharsetProvider.javaʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 1 ������
+    [javac] 3 ������
+
+BUILD FAILED
+D:\android\sdk\sdk\tools\ant\uibuild.xml:183: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+73 KB/s (5071 bytes in 0.067s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.988
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 9 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] ע: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\src\com\beetstra\jutf7\CharsetProvider.javaʹ����δ�����򲻰�ȫ�Ĳ�����
+    [javac] ע: �й���ϸ��Ϣ, ��ʹ�� -Xlint:unchecked ���±��롣
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+149 KB/s (11527 bytes in 0.075s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:36)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:36)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 41.559
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+141 KB/s (11526 bytes in 0.079s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_01:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=找产品, RESOURCE_ID=cn.com.pconline.android.browser:id/main_content_bottom_tv]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.jinritoutiao.Test.search(Test.java:66)
+
+	at com.jinritoutiao.Test.test_01(Test.java:32)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[TEXT=找产品, RESOURCE_ID=cn.com.pconline.android.browser:id/main_content_bottom_tv]
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:432)
+
+	at com.android.uiautomator.core.UiObject.clickAndWaitForNewWindow(UiObject.java:410)
+
+	at com.jinritoutiao.Test.search(Test.java:66)
+
+	at com.jinritoutiao.Test.test_01(Test.java:32)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 24.075
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+147 KB/s (12196 bytes in 0.080s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:28:50 [Test] setUp of test_01
+
+>>> 2017-15-45 03:29:41 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:79)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:79)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 51.523
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+139 KB/s (12194 bytes in 0.085s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:33:26 [Test] setUp of test_01
+
+>>> 2017-15-45 03:34:18 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:78)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:78)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 52.806
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+134 KB/s (12196 bytes in 0.088s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:35:26 [Test] setUp of test_01
+
+>>> 2017-15-45 03:36:17 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:79)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:79)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 51.788
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+156 KB/s (12196 bytes in 0.076s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:36:47 [Test] setUp of test_01
+
+>>> 2017-15-45 03:37:40 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:80)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:80)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 53.044
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+134 KB/s (12196 bytes in 0.088s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:38:10 [Test] setUp of test_01
+
+>>> 2017-15-45 03:39:02 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:80)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:80)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 52.261
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+138 KB/s (12195 bytes in 0.086s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:40:34 [Test] setUp of test_01
+
+>>> 2017-15-45 03:41:25 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[ 
+
+ ]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:78)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索综合为空:[ 
+
+ ]没有相关综合，请调整搜索词> but was:<搜索综合为空:[
+
+]没有相关综合，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:78)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 51.488
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+150 KB/s (12197 bytes in 0.079s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:41:48 [Test] setUp of test_01
+
+>>> 2017-15-45 03:42:42 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 53.451
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+198 KB/s (12303 bytes in 0.060s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:58:12 [Test] setUp of test_01
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_01:
+
+java.lang.NoSuchMethodError: com.android.uiautomator.core.UiSelector.resourceId
+
+	at com.jinritoutiao.Test.getObjByRid(Test.java:127)
+
+	at com.jinritoutiao.Test.test_01(Test.java:69)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stack=java.lang.NoSuchMethodError: com.android.uiautomator.core.UiSelector.resourceId
+
+	at com.jinritoutiao.Test.getObjByRid(Test.java:127)
+
+	at com.jinritoutiao.Test.test_01(Test.java:69)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 4.2
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+166 KB/s (12303 bytes in 0.072s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-45 03:58:51 [Test] setUp of test_01
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_01:
+
+java.lang.NoSuchMethodError: com.android.uiautomator.core.UiSelector.resourceId
+
+	at com.jinritoutiao.Test.getObjByRid(Test.java:127)
+
+	at com.jinritoutiao.Test.test_01(Test.java:69)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stack=java.lang.NoSuchMethodError: com.android.uiautomator.core.UiSelector.resourceId
+
+	at com.jinritoutiao.Test.getObjByRid(Test.java:127)
+
+	at com.jinritoutiao.Test.test_01(Test.java:69)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 5.564
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+error: more than one device/emulator
+error: more than one device/emulator
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+150 KB/s (12303 bytes in 0.080s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-45 04:03:02 [Test] setUp of test_01
+
+>>> 2017-16-45 04:04:02 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_01:
+
+junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索[综合]为空:
+
+没有相关产品，请调整搜索词> but was:<搜索[产品]为空:
+
+没有相关产品，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:80)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.ComparisonFailure: search tips doesn't match  expected:<搜索[综合]为空:
+
+没有相关产品，请调整搜索词> but was:<搜索[产品]为空:
+
+没有相关产品，请调整搜索词>
+
+	at com.jinritoutiao.Test.test_01(Test.java:80)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 60.036
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+151 KB/s (12295 bytes in 0.079s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-45 04:07:46 [Test] setUp of test_01
+
+>>> 2017-16-45 04:08:43 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 57.157
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+error: more than one device/emulator
+error: more than one device/emulator
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+147 KB/s (12394 bytes in 0.082s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-17-45 05:08:47 [Test] setUp of test_01
+
+>>> 2017-17-45 05:09:45 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 58.132
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+2 KB/s (12394 bytes in 5.073s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-09-46 09:48:13 [Test] setUp of test_01
+
+>>> 2017-09-46 09:49:17 [Test] tearDown of test_01
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_01
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 63.983
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+135 KB/s (12701 bytes in 0.091s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-10-46 10:47:16 [Test] setUp of test_02
+
+>>> 2017-10-46 10:47:46 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_02:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[RESOURCE_ID=cn.com.pconline.android.browser:id/indicator]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.android.uiautomator.core.UiScrollable.scrollIntoView(UiScrollable.java:264)
+
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:212)
+
+	at com.jinritoutiao.Test.up_menu(Test.java:142)
+
+	at com.jinritoutiao.Test.test_02(Test.java:88)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[RESOURCE_ID=cn.com.pconline.android.browser:id/indicator]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.android.uiautomator.core.UiScrollable.scrollIntoView(UiScrollable.java:264)
+
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:212)
+
+	at com.jinritoutiao.Test.up_menu(Test.java:142)
+
+	at com.jinritoutiao.Test.test_02(Test.java:88)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 30.101
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+155 KB/s (12706 bytes in 0.079s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-10-46 10:49:13 [Test] setUp of test_02
+
+>>> 2017-10-46 10:49:39 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_02:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.HorizontalScrollView]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.android.uiautomator.core.UiScrollable.scrollIntoView(UiScrollable.java:264)
+
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:212)
+
+	at com.jinritoutiao.Test.up_menu(Test.java:142)
+
+	at com.jinritoutiao.Test.test_02(Test.java:88)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.HorizontalScrollView]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.android.uiautomator.core.UiScrollable.scrollIntoView(UiScrollable.java:264)
+
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:212)
+
+	at com.jinritoutiao.Test.up_menu(Test.java:142)
+
+	at com.jinritoutiao.Test.test_02(Test.java:88)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 26.617
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+122 KB/s (12700 bytes in 0.101s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-11-46 11:06:31 [Test] setUp of test_02
+
+>>> 2017-11-46 11:07:07 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 36.579
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+135 KB/s (12693 bytes in 0.091s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-11-46 11:09:55 [Test] setUp of test_02
+
+>>> 2017-11-46 11:11:04 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_02:
+
+junit.framework.AssertionFailedError: up option does't selected
+
+	at com.jinritoutiao.Test.up_menu(Test.java:147)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: up option does't selected
+
+	at com.jinritoutiao.Test.up_menu(Test.java:147)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 69.229
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+error: protocol fault (couldn't read status): No error
+error: protocol fault (couldn't read status): No error
+error: device '(null)' not found
+error: device '(null)' not found
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+159 KB/s (12693 bytes in 0.077s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-11-46 11:23:20 [Test] setUp of test_02
+
+>>> 2017-11-46 11:24:21 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_02:
+
+junit.framework.AssertionFailedError: up option does't selected
+
+	at com.jinritoutiao.Test.up_menu(Test.java:147)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: up option does't selected
+
+	at com.jinritoutiao.Test.up_menu(Test.java:147)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 60.442
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+135 KB/s (12720 bytes in 0.091s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-11-46 11:35:45 [Test] setUp of test_02
+
+>>> 2017-11-46 11:36:32 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_02:
+
+com.android.uiautomator.core.UiObjectNotFoundException: for text= "图赏"
+
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+
+	at com.jinritoutiao.Test.up_menu(Test.java:144)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: for text= "图赏"
+
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+
+	at com.jinritoutiao.Test.up_menu(Test.java:144)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 47.572
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+136 KB/s (12720 bytes in 0.091s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-11-46 11:37:08 [Test] setUp of test_02
+
+>>> 2017-11-46 11:38:05 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Failure in test_02:
+
+junit.framework.AssertionFailedError: up option does't selected expected:<true> but was:<false>
+
+	at com.jinritoutiao.Test.up_menu(Test.java:147)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: up option does't selected expected:<true> but was:<false>
+
+	at com.jinritoutiao.Test.up_menu(Test.java:147)
+
+	at com.jinritoutiao.Test.test_02(Test.java:89)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -2
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.F
+
+Time: 57.544
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 1,  Errors: 0
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+106 KB/s (12746 bytes in 0.116s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-11-46 11:41:55 [Test] setUp of test_02
+
+>>> 2017-11-46 11:42:53 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 58.583
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+141 KB/s (12771 bytes in 0.087s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-11-46 11:44:23 [Test] setUp of test_02
+
+>>> 2017-11-46 11:45:24 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 61.169
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+error: protocol fault (couldn't read status): No error
+error: device '(null)' not found
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+143 KB/s (12733 bytes in 0.086s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-14-46 02:39:13 [Test] setUp of test_02
+
+>>> 2017-14-46 02:39:55 [Test] tearDown of test_02
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_02
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 42.484
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+error: more than one device/emulator
+error: more than one device/emulator
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+162 KB/s (12919 bytes in 0.077s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-46 03:07:43 [Test] setUp of test_03
+
+>>> 2017-15-46 03:08:07 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 23.309
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+162 KB/s (12920 bytes in 0.077s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-46 03:08:56 [Test] setUp of test_03
+
+>>> 2017-15-46 03:09:26 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CHILD=UiSelector[CLASS=android.widget.FrameLayout], RESOURCE_ID=com.android.systemui:id/recents_linear_layout]
+
+	at com.android.uiautomator.core.UiObject.getVisibleBounds(UiObject.java:811)
+
+	at com.android.uiautomator.core.UiObject.swipeLeft(UiObject.java:295)
+
+	at com.jinritoutiao.Test.closeRecentApp(Test.java:167)
+
+	at com.jinritoutiao.Test.test_03(Test.java:96)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CHILD=UiSelector[CLASS=android.widget.FrameLayout], RESOURCE_ID=com.android.systemui:id/recents_linear_layout]
+
+	at com.android.uiautomator.core.UiObject.getVisibleBounds(UiObject.java:811)
+
+	at com.android.uiautomator.core.UiObject.swipeLeft(UiObject.java:295)
+
+	at com.jinritoutiao.Test.closeRecentApp(Test.java:167)
+
+	at com.jinritoutiao.Test.test_03(Test.java:96)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 29.995
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+29 KB/s (12922 bytes in 0.430s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-46 03:09:45 [Test] setUp of test_03
+
+>>> 2017-15-46 03:10:18 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 32.673
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+151 KB/s (12950 bytes in 0.083s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-46 03:14:11 [Test] setUp of test_03
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+74 KB/s (13267 bytes in 0.174s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:12:58 [Test] setUp of test_03
+
+>>> 2017-16-46 04:13:34 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:172)
+
+	at com.jinritoutiao.Test.test_03(Test.java:100)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:172)
+
+	at com.jinritoutiao.Test.test_03(Test.java:100)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 36.234
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+136 KB/s (13234 bytes in 0.094s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:16:22 [Test] setUp of test_03
+
+>>> 2017-16-46 04:17:07 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:150)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:175)
+
+	at com.jinritoutiao.Test.test_03(Test.java:100)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:150)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:175)
+
+	at com.jinritoutiao.Test.test_03(Test.java:100)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 45.179
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+144 KB/s (13254 bytes in 0.089s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:17:55 [Test] setUp of test_03
+
+>>> 2017-16-46 04:18:31 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:173)
+
+	at com.jinritoutiao.Test.test_03(Test.java:101)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiScrollable.scrollBackward(UiScrollable.java:495)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:543)
+
+	at com.android.uiautomator.core.UiScrollable.scrollToBeginning(UiScrollable.java:562)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:173)
+
+	at com.jinritoutiao.Test.test_03(Test.java:101)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 35.78
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+207 KB/s (13281 bytes in 0.062s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:20:26 [Test] setUp of test_03
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:145)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:177)
+
+	at com.jinritoutiao.Test.test_03(Test.java:102)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:145)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:177)
+
+	at com.jinritoutiao.Test.test_03(Test.java:102)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 30.014
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+146 KB/s (13281 bytes in 0.088s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:32:33 [Test] setUp of test_03
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:145)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:177)
+
+	at com.jinritoutiao.Test.test_03(Test.java:102)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:145)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:177)
+
+	at com.jinritoutiao.Test.test_03(Test.java:102)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 30.7
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+164 KB/s (13255 bytes in 0.078s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:34:46 [Test] setUp of test_03
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:145)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:177)
+
+	at com.jinritoutiao.Test.test_03(Test.java:102)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView, INDEX=0]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:145)
+
+	at com.jinritoutiao.Test.getColumnNum(Test.java:177)
+
+	at com.jinritoutiao.Test.test_03(Test.java:102)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 28.695
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+157 KB/s (12922 bytes in 0.080s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:37:33 [Test] setUp of test_03
+
+column num:16
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+java.lang.NoSuchMethodError: com.android.uiautomator.core.UiSelector.resourceId
+
+	at com.jinritoutiao.Test.getObjByRidText(Test.java:178)
+
+	at com.jinritoutiao.Test.tearDown(Test.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stack=java.lang.NoSuchMethodError: com.android.uiautomator.core.UiSelector.resourceId
+
+	at com.jinritoutiao.Test.getObjByRidText(Test.java:178)
+
+	at com.jinritoutiao.Test.tearDown(Test.java:41)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:144)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:87)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:90)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:309)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 14.699
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+159 KB/s (12877 bytes in 0.078s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:38:48 [Test] setUp of test_03
+
+column num:16
+
+>>> 2017-16-46 04:39:06 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 18.001
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+149 KB/s (12877 bytes in 0.084s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:40:09 [Test] setUp of test_03
+
+column num:19
+
+>>> 2017-16-46 04:40:26 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 17.038
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+107 KB/s (12877 bytes in 0.117s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-46 04:42:58 [Test] setUp of test_03
+
+>>> 2017-16-46 04:43:45 [Test] tearDown of test_03
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in test_03:
+
+com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:150)
+
+	at com.jinritoutiao.Test.test_03(Test.java:104)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=test_03
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=com.android.uiautomator.core.UiObjectNotFoundException: UiSelector[CLASS=android.widget.GridView]
+
+	at com.android.uiautomator.core.UiObject.getChildCount(UiObject.java:150)
+
+	at com.jinritoutiao.Test.test_03(Test.java:104)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 47.527
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+161 KB/s (14496 bytes in 0.087s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-51 03:37:23 [UiAutomatorBase] setUp of testCreateBitmap
+
+>>> 2017-15-51 03:37:33 [UiAutomatorBase] tearDown of testCreateBitmap
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCreateBitmap:
+
+java.lang.RuntimeException: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:173)
+
+	at com.jinritoutiao.Test.testCreateBitmap(Test.java:121)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:169)
+
+	... 16 more
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.RuntimeException: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:173)
+
+	at com.jinritoutiao.Test.testCreateBitmap(Test.java:121)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:169)
+
+	... 16 more
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 10.115
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+110 KB/s (14512 bytes in 0.127s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-51 03:39:45 [UiAutomatorBase] setUp of testCreateBitmap
+
+>>> 2017-15-51 03:39:55 [UiAutomatorBase] tearDown of testCreateBitmap
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCreateBitmap:
+
+java.lang.RuntimeException: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:173)
+
+	at com.jinritoutiao.Test.testCreateBitmap(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:169)
+
+	... 16 more
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.RuntimeException: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:173)
+
+	at com.jinritoutiao.Test.testCreateBitmap(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:169)
+
+	... 16 more
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 9.301
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+162 KB/s (14516 bytes in 0.087s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-15-51 03:54:56 [UiAutomatorBase] setUp of testCreateBitmap
+
+>>> 2017-15-51 03:55:05 [UiAutomatorBase] tearDown of testCreateBitmap
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+Error in testCreateBitmap:
+
+java.lang.RuntimeException: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:173)
+
+	at com.jinritoutiao.Test.testCreateBitmap(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:169)
+
+	... 16 more
+
+
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: stack=java.lang.RuntimeException: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:173)
+
+	at com.jinritoutiao.Test.testCreateBitmap(Test.java:122)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:243)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.lang.NullPointerException
+
+	at com.jinritoutiao.UiAutomatorBase.saveBitmapToSdcard(UiAutomatorBase.java:169)
+
+	... 16 more
+
+
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.E
+
+Time: 9.213
+
+
+
+FAILURES!!!
+
+Tests run: 1,  Failures: 0,  Errors: 1
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+136 KB/s (14467 bytes in 0.103s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-51 04:00:43 [UiAutomatorBase] setUp of testCreateBitmap
+
+>>> 2017-16-51 04:00:52 [UiAutomatorBase] tearDown of testCreateBitmap
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 9.028
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+Buildfile: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 24.4.1
+ [checkenv] Installed at D:\android\sdk\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 24.0.0
+     [echo] Resolving Build Target for Test...
+[getuitarget] Project Target:   Android 4.4.2
+[getuitarget] API level:        19
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: D:\Program Files (x86)\eclipse\workspaces\jinritoutiaoTest\bin\Test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+70 KB/s (14467 bytes in 0.201s)
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=
+
+com.jinritoutiao.Test:
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+>>> 2017-16-51 04:04:48 [UiAutomatorBase] setUp of testCreateBitmap
+
+>>> 2017-16-51 04:04:59 [UiAutomatorBase] tearDown of testCreateBitmap
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: test=testCreateBitmap
+
+INSTRUMENTATION_STATUS: class=com.jinritoutiao.Test
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 10.562
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
